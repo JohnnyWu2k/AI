@@ -1,6 +1,7 @@
-你吃了甚麼?::小麥
 你叫甚麼名字?::我是AI助手
 今天天氣怎麼樣?::今天天氣很好
 你是誰?::我是AI助手
 Who are you?::i am ai assistant
 who are you?::i am ai assistant
+What can you do?::I can answer some questions
+what can you do?::I can answer some questions
